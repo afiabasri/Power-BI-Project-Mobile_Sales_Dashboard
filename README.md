@@ -60,4 +60,9 @@ Ideal for:
 - DAX & Measures  
 - Data Cleaning & Transformation  
 - Dashboard Design Best Practices  
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
 
