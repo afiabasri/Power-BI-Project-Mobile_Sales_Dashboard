@@ -66,6 +66,6 @@ Ideal for:
 
 ![Dashboard Screenshot]([images/dashboard.png](https://github.com/afiabasri/Power-BI-Project-Mobile_Sales_Dashboard/blob/main/same%20period%20last%20year.png))
 
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/afiabasri/Power-BI-Project-Mobile_Sales_Dashboard/blob/main/Dashboard.png))
+![Dashboard Screenshot](https://github.com/afiabasri/Power-BI-Project-Mobile_Sales_Dashboard/blob/main/Dashboard.png)
 
 ![Dashboard Screenshot]([images/dashboard.png](https://github.com/afiabasri/Power-BI-Project-Mobile_Sales_Dashboard/blob/main/MTD.png))
